@@ -9,3 +9,7 @@ body {
 	height: 50vh;
 	opacity: 90%;
 }
+
+.icon {
+	font-size: 2rem;
+}
