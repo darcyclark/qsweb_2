@@ -1,0 +1,11 @@
+body {
+}
+.jumbotron {
+    background-image: url("/assets/images/stair.jpg");
+	background-color: white;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 50vh;
+	opacity: 90%;
+}
