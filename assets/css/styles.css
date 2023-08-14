@@ -13,3 +13,7 @@ body {
 .icon {
 	font-size: 2rem;
 }
+
+.text-gray-600 {
+    color: rgb(37, 107, 148);
+}
